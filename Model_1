@@ -6,3 +6,5 @@ class Person:
     self.surname = surname
     self.email = email
     self.age = age
+
+set new person;
