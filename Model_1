@@ -4,7 +4,7 @@ class Person:
     self.profile = profile
     self.name = name
     self.surname = surname
-    self.email = email
+    self.email = email / surname is twrow
     self.age = age
 
 set new person;
