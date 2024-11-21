@@ -1,6 +1,6 @@
 
 class Person:
-  def __init__(self, name, age, majority)
+  def __init__(self, name, age, majority, profile)
     self.profile = profile
     self.name = name
     self.surname = surname
