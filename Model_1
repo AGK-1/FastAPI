@@ -12,3 +12,9 @@ class Car:
     self.year = year
 self.engine = engine
 set new car;
+class Car:
+  def __init__(self, color, year Def)
+    self.color = color
+    self.year = year
+self.engine = engine
+set new car;
