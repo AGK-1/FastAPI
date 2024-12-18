@@ -1,6 +1,6 @@
 grades = [670, 100, 87, 56]
 thisdict =	{
-  "brand": "Ford",
+  "brand": "Mersedec",
   "model": "Ferrariy",
   "year": 1964
 }
