@@ -1,3 +1,3 @@
 console.log("Hello")
 foreach with arr[]
-  ['hello',5,12]
+  ['hello',5,12,85]
