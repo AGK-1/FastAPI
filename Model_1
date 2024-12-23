@@ -12,7 +12,7 @@ class Car:
     self.color = color
     self.year = year
 self.engine = engine
- def __init__(self, name, age, majority, profile, Def)
+ def __init__(self, name, age, majority, profile, grezee, Def)
     self.profile = profile
     self.name = name
     self.surname = surname
