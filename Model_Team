@@ -5,3 +5,22 @@ class Team:
         self.goals_scored = goals_scored
 
 ///////////////////////////////////////////////////////////////////////////
+
+class Team:
+    def __init__(self, name, year):
+        self.name = name        # Название команды
+        self.year = year        # Год основания
+        self.goals = 0          # Голов забито (начальное значение 0)
+
+    def add_goals(self, goals):
+        self.goals += goals     # Добавляем голы
+
+    def info(self):
+        return f"{self.name}, основана в {self.year}, голов: {self.goals}"
+
+# Пример использования
+team = Team("TeamA", 1995)
+print(team.info())  # Вывод: TeamA, основана в 1995, голов: 0
+
+team.add_goals(5)
+print(team.info())  # Вывод: TeamA, основана в 1995, голов: 5
