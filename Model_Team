@@ -22,5 +22,7 @@ class Team:
 team = Team("TeamA", 1995)
 print(team.info())  # Вывод: TeamA, основана в 1995, голов: 0
 
+team = Team("5855", 2001)
+
 team.add_goals(5)
 print(team.info())  # Вывод: TeamA, основана в 1995, голов: 5
