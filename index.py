@@ -1,4 +1,4 @@
-grades = [670, 100, 87, 56]
+grades = [670, 100, 87, 56,800]
 thisdict =	{
   "brand": "Mersedeccccc",
   "model": "Ferrariy",
