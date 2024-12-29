@@ -1,3 +1,3 @@
 licence is free
-for ..............,
+for ...............
 edu cl
