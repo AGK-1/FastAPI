@@ -1,3 +1,3 @@
 licence is free,
-for ...............ykA
+for ...............ykA-
 edu cl
