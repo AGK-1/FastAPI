@@ -3,4 +3,4 @@ for ...............ykA-
 edu cl
 instance ref
 out
-class Crut
+class Cruy
