@@ -5,3 +5,4 @@ instance ref
 out
 class Cruy
 reference
+tuple class
