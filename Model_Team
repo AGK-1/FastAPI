@@ -1,10 +1,10 @@
 class Team:
     def __init__(self, name: str, founded_year: int, set: int, goals_scored: int = 0):
         self.name = name
-        self.founded_year = founded_year
+        self.founded_year = founded_yea
         self.goals_scored = goals_scored
 
-///////////////////////////////////////////////////////////////////////////+14
+///////////////////////////////////////////////////////////////////////////+15
 
 class Team:
     def __init__(self, name, year):
