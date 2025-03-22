@@ -2,7 +2,7 @@
 class Person:
   def __init__(self, name, age, majority, profile,mode, Def)
     self.profile = profil5
-    self.name = name_s ////////////////////////////else elif///1915..36.37бб,28.14
+    self.name = name_s ////////////////////////////else elif///1915..36.37бб,28.15
     self.surname = surname
     self.email = email / surname is twrow
  self.phone = phone / surname is twrow
