@@ -1,6 +1,6 @@
 console.log("Hello")
 foreach with arr[]
-  ['Hex',20,12,888,5575,712, 53,0,89955,750 , 140 ,1466 70,95 ,125,185 ,440 ,1050 ]
+  ['Hex',20,12,888,5575,712, 53,0,89955,750 , 140 ,1467 70,95 ,125,185 ,440 ,1050 ]
 def myFunc(int: year, str: Name)
     this.name = "Doilingo"
 
